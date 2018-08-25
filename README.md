@@ -15,3 +15,6 @@
 
 # Helm
 - Install MySQL on Kub with Helm  ( Package Management)
+
+#Scheduling
+- Cronjobs
