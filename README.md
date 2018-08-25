@@ -14,4 +14,4 @@
 - predefined and more complex roles
 
 # Helm
-- Install MySQL on Kub with Helm 
+- Install MySQL on Kub with Helm  ( Package Management)
