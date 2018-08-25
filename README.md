@@ -31,3 +31,7 @@
 #Federation
 - manage multiple cluster resources
 - sync multiple cluster resources.
+
+#Promethius
+- Install
+- demo
