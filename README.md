@@ -27,3 +27,7 @@
 # LinkerD
 - hello world (DaemonSet microservice example)
 - node name test
+
+#Federation
+- manage multiple cluster resources
+- sync multiple cluster resources.
