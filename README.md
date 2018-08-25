@@ -8,3 +8,7 @@
 - Http Basic Auth in K8
 - Auth using a proxy
 - Auth using Open ID Connect IODC
+
+# Authorization
+- Authorizations with RBAC
+- predefined and more complex roles
