@@ -25,5 +25,5 @@
 - loadbalancer, server groups, pipelines
 
 # LinkerD
-- hello world
+- hello world (DaemonSet microservice example)
 - node name test
