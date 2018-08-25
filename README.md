@@ -12,3 +12,6 @@
 # Authorization
 - Authorizations with RBAC
 - predefined and more complex roles
+
+# Helm
+- Install MySQL on Kub with Helm 
