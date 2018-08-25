@@ -18,3 +18,7 @@
 
 #Scheduling
 - Cronjobs
+
+# Spinnaker
+- install (w helm) mixed with git and docker for automated build
+- loadbalancer, server groups, pipelines
