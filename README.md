@@ -23,3 +23,7 @@
 - install (w helm) mixed with git and docker for automated build
 - docker demo
 - loadbalancer, server groups, pipelines
+
+# LinkerD
+- hello world
+- node name test
