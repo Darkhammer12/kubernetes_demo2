@@ -28,10 +28,10 @@
 - hello world (DaemonSet microservice example)
 - node name test
 
-#Federation
+# Federation
 - manage multiple cluster resources
 - sync multiple cluster resources.
 
-#Promethius
+# Promethius
 - Install
-- demo monitoring 
+- demo monitoring
