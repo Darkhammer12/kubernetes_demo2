@@ -34,4 +34,4 @@
 
 #Promethius
 - Install
-- demo
+- demo monitoring 
